@@ -1,0 +1,46 @@
+﻿  AnchoredSpringForce.cpp
+  BasicSpringForce.cpp
+  DebugManager.cpp
+  ElasticBungeeForce.cpp
+  FireworkRule.cpp
+  Fireworks.cpp
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\Fireworks.cpp(80,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\Fireworks.cpp(81,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\Fireworks.cpp(82,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Line.cpp
+  main.cpp
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\RigidBody.h(36,23): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(62,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(62,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(73,29): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(73,22): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(84,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(113,26): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\main.cpp(50,18): warning C4101: 'debug': unreferenced local variable
+  MySkybox.cpp
+  Particle.cpp
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\Particle.cpp(81,79): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  ParticleContact.cpp
+  ParticleContactResolver.cpp
+  ParticleForceRegistration.cpp
+  ParticleForceRegistry.cpp
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\ParticleForceRegistry.cpp(52,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  ParticleGravity.cpp
+  ParticleLink.cpp
+  ParticleRod.cpp
+  ParticleWorld.cpp
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\ParticleWorld.cpp(18,52): warning C4244: '=': conversion from 'unsigned __int64' to 'float', possible loss of data
+  RigidBody.cpp
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\RigidBody.h(36,23): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\ENGINE 01\RigidBody.cpp(53,79): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ENGINE 01.vcxproj -> E:\.School\GDPHYSX ENGINE 1\ENGINE 01\x64\Debug\ENGINE 01.exe

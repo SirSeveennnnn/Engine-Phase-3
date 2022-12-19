@@ -1,0 +1,7 @@
+﻿main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+E:\.School\GDPHYSX ENGINE 1\Dependencies\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+E:\.School\GDPHYSX ENGINE 1\ENGINE 01\Debug\ENGINE 01.exe : fatal error LNK1120: 5 unresolved externals
